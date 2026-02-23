@@ -7,6 +7,7 @@
 (帳號:zzz密碼:zzz)
 <br>
 **前台｜形象與體驗：** 著重 Professional Image 與 UX/UI。確保介面在不同裝置間具備流暢的響應式體驗。
+<br>
 **後台｜管理與彈性：** 著重 Efficiency 與 Accessibility。建構易上手的操作系統，實現官網內容的高彈性動態管理。
 <hr>
 
